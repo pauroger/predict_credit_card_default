@@ -13,5 +13,5 @@ git clone https://github.com/pauroger/predict_credit_card_default
 
 cd predict_credit_card_default
 
-pip install pip install -r requirements.txt
+pip install -r requirements.txt
 ```
