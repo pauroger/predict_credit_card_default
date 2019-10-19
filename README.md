@@ -1,6 +1,6 @@
 # Predict credit card default
 
-## The competition
+## The competition: Financial Services at IE's MBD
 
 We get 2 csv's with with real (yet transformed for privacy) data from a bank.
 
@@ -10,12 +10,8 @@ The training set will contain the **target** binary variable, which will be a 1 
 
 ```bash
 git clone https://github.com/pauroger/predict_credit_card_default
-```
 
-```bash
 cd predict_credit_card_default
-```
 
-```bash
 pip install pip install -r requirements.txt
 ```
